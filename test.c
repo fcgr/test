@@ -14,5 +14,5 @@ void hmm (void) {
 }
 
 void hmmm (void) {
-    printf("hmmm");
+    printf("hmmm right branch hmmm\n");
 }
