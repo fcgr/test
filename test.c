@@ -10,7 +10,7 @@ int main (int argc, char **argv) {
 }
 
 void hmm (void) {
-    printf("hmm");
+    printf("hmm left branch hmm\n");
 }
 
 void hmmm (void) {
