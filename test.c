@@ -6,7 +6,7 @@ void hmmm (void);
 int main (int argc, char **argv) {
     hmm();
     hmmm();
-    return 0;
+    return 3;
 }
 
 void hmm (void) {
